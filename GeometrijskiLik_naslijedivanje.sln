@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometrijskiLik_naslijedivanje", "GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje.csproj", "{C605FC21-95B2-415D-92C3-3D8FADA198E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C605FC21-95B2-415D-92C3-3D8FADA198E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C605FC21-95B2-415D-92C3-3D8FADA198E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C605FC21-95B2-415D-92C3-3D8FADA198E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C605FC21-95B2-415D-92C3-3D8FADA198E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B162170B-DF97-441A-AFF0-3FD30B551B65}
+	EndGlobalSection
+EndGlobal

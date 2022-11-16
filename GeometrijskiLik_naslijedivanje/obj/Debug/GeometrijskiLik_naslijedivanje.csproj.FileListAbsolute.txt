@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\bin\Debug\GeometrijskiLik_naslijedivanje.exe.config
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\bin\Debug\GeometrijskiLik_naslijedivanje.exe
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\bin\Debug\GeometrijskiLik_naslijedivanje.pdb
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\obj\Debug\GeometrijskiLik_naslijedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\obj\Debug\GeometrijskiLik_naslijedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\obj\Debug\GeometrijskiLik_naslijedivanje.exe
+C:\Users\ucenik\source\repos\GeometrijskiLik_naslijedivanje\GeometrijskiLik_naslijedivanje\obj\Debug\GeometrijskiLik_naslijedivanje.pdb
